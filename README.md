@@ -15,5 +15,5 @@
 
 # Note
 R files contain my previous approach to solve this problem when I was totally new to this field and had less knowledge.
-Python file contain my recent approach to solve this problem with extra knoweledge than before.
-I am gald to see that how much I have improved in both knowledge as well as implementation.
+Python file contain my recent approach to solve this problem with extra knowledge than before.
+I am glad to see that how much I have improved in both knowledge as well as implementation.
